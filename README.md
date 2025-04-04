@@ -4,9 +4,11 @@
 
 ## Skills and Experience:--
 * Python
-* Django,Flask
-* C
-* C++
+* Django,Flask, FastAPI
+* GenAI
+* Machin Learning
+* Deep Learning
+* Data Science
 
 
  
